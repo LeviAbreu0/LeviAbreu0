@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @LeviAbreu0
-- 👀 I’m interested in ... Java, PHP and Python
-- 🌱 I’m currently learning ... Java, PHP and Python
-- 📫 How to reach me ... IDK
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... My first language was Python
-
-<!---
-LeviAbreu0/LeviAbreu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<H1>Olá sou Levi Abreu</H1>
+⏳ - Acadêmico EEEP DEP JOSÉ MARIA MELO
+📖 - Estou aprendendo Java!
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+</div>
