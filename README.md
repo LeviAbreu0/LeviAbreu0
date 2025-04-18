@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu me chamo Levi Abreu
 
-🎯 Desenvolvedor apaixonado por tecnologia, focado em construir experiências web incríveis.
+🎯 Desenvolvedor apaixonado por tecnologia, focado em construir experiências web e mobile incríveis.
 
 🚀 Tecnologias que uso no meu dia a dia:
 
@@ -12,6 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ---
