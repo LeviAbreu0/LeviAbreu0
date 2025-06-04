@@ -17,7 +17,11 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiLeviAbreu0anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Estatísticas GitHub
+
+[![Levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviAbreu0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAbreu0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
