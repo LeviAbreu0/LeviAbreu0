@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="coding animation" width="200" style="border-radius: 12px;" />
+  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="coding animation" height="200" style="border-radius: 12px;" />
 </div>
 
 ---
@@ -48,8 +48,6 @@ Focado em criar **aplicações web modernas** e **APIs robustas** com qualidade 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeviAbreu0&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeviAbreu0&theme=tokyonight" width="47%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAbreu0&layout=compact&theme=tokyonight" width="47%" />
@@ -67,8 +65,8 @@ Focado em criar **aplicações web modernas** e **APIs robustas** com qualidade 
 ## 📬 Contato
 
 - 📂 GitHub: [github.com/LeviAbreu0](https://github.com/LeviAbreu0)  
-- 📧 Email: levipietrpsousa@gmail.com  
+- 📧 Email: levipietrosousa@gmail.com  
 
 ---
 
-<p align="center">✨ Levi Abreu © 2025 ✨</p>
+<p align="center"> Levi Abreu © 2025 </p>
