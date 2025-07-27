@@ -4,9 +4,9 @@
 
 ---
 
-# 👨‍💻 Levi Abreu — Engenheiro de Software
+# 👨‍💻 Levi Abreu — Futuro Engenheiro de Software
 
-🎯 Engenheiro de Software e desenvolvedor **Fullstack**, apaixonado por tecnologia.  
+🎯 Desenvolvedor **Fullstack**, apaixonado por tecnologia.  
 Focado em criar **aplicações web modernas** e **APIs robustas** com qualidade e segurança.
 
 ---
