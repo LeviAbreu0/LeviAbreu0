@@ -1,72 +1,90 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="coding animation" height="200" style="border-radius: 12px;" />
+
+<img 
+  src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" 
+  height="180"
+/>
+
+<br/>
+
+<h1>Levi Abreu</h1>
+
+<p>
+  Desenvolvedor em formação<br/>
+  Focado em aplicações web e APIs backend
+</p>
+
+<br/>
+
 </div>
 
 ---
 
-# 👨‍💻 Levi Abreu — Futuro Engenheiro de Software
+## Stack
 
-🎯 Desenvolvedor **Fullstack**, apaixonado por tecnologia.  
-Focado em criar **aplicações web modernas** e **APIs robustas** com qualidade e segurança.
+<div align="center">
 
----
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44"/>
 
-## 🚀 Tecnologias que uso no dia a dia:
+<br/><br/>
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React & React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44"/>
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  
-  <!-- Banco de dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  
-  <!-- Versionamento & Terminais -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
-  
-  <!-- Outros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows"/>
-</p>
+<br/><br/>
+
+<!-- Outros -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44"/>
+
+</div>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeviAbreu0&show_icons=true&theme=tokyonight" width="47%" />
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAbreu0&layout=compact&theme=tokyonight" width="47%" />
-</p>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=LeviAbreu0&show_icons=true&theme=tokyonight&hide_border=true" 
+  width="46%" 
+/>
 
----
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAbreu0&layout=compact&theme=tokyonight&hide_border=true" 
+  width="46%" 
+/>
 
-## 👨‍🚀 Sobre mim
-
-💬 Estudante dedicado de desenvolvimento **Frontend & Backend**, com paixão por resolver problemas e transformar ideias em realidade.  
-📚 Sempre buscando evolução contínua com boas práticas, segurança e escalabilidade.
-
----
-
-## 📬 Contato
-
-- 📂 GitHub: [github.com/LeviAbreu0](https://github.com/LeviAbreu0)  
-- 📧 Email: levipietrosousa@gmail.com  
+</div>
 
 ---
 
-<p align="center"> Levi Abreu © 2025 </p>
+## Sobre
+
+Estudante focado em desenvolvimento frontend e backend.  
+Interesse em boas práticas, arquitetura de software e construção de base técnica sólida
+por meio de projetos práticos.
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://github.com/LeviAbreu0">github.com/LeviAbreu0</a><br/>
+levipietrosousa@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© 2025 Levi Abreu</sub>
+</div>
