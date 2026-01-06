@@ -3,7 +3,6 @@
 Desenvolvedor em formação, interessado em entender bem os fundamentos e construir projetos com calma, clareza e consistência.  
 Uso este GitHub como registro de aprendizado e evolução prática.
 
----
 
 ## Tecnologias que uso no dia a dia
 
@@ -21,11 +20,7 @@ Uso este GitHub como registro de aprendizado e evolução prática.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
----
-
 ## Contato
 
 - GitHub: https://github.com/LeviAbreu0  
 - Email: leviabreu.dev@gmail.com  
-
----
