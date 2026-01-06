@@ -23,22 +23,9 @@ Uso este GitHub como registro de aprendizado e evolução prática.
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeviAbreu0&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviAbreu0&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ## Contato
 
 - GitHub: https://github.com/LeviAbreu0  
 - Email: leviabreu.dev@gmail.com  
 
 ---
-
-<p align="center">
-  <sub>Construindo aos poucos.</sub>
-</p>
