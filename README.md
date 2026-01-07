@@ -1,26 +1,66 @@
-## Levi Abreu
+# Olá, eu sou Levi 👋
 
-Desenvolvedor em formação, interessado em entender bem os fundamentos e construir projetos com calma, clareza e consistência.  
-Uso este GitHub como registro de aprendizado e evolução prática.
+Sou estudante de desenvolvimento web com backend e uso este espaço para aprender, testar ideias e registrar minha evolução com projetos práticos.
 
+---
 
-## Tecnologias que uso no dia a dia
+## 🛠️ Tecnologias e Skills
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React/React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-</p>
+### Front-end
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/>
+  </a>
+</div>
+
+### Back-end
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+  </a>
+</div>
+
+### Outros
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
+  </a>
+</div>
+
+---
 
 ## Contato
 
-- GitHub: https://github.com/LeviAbreu0  
+- GitHub: [github.com/LeviAbreu0](https://github.com/LeviAbreu0)  
 - Email: leviabreu.dev@gmail.com  
+
+---
+
+<sub>Construindo aos poucos.</sub>
