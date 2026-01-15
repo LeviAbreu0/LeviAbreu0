@@ -1,6 +1,6 @@
-# Olá, eu sou Levi 👋
+# Olá, me chamo Levi 👋
 
-Sou estudante de desenvolvimento web com backend e uso este espaço para aprender, testar ideias e registrar minha evolução com projetos práticos.
+Sou estudante de programação e uso este espaço para mostrar meus projetos, testar ideias e registrar minha evolução com projetos práticos.
 
 ---
 
@@ -32,17 +32,7 @@ Sou estudante de desenvolvimento web com backend e uso este espaço para aprende
 </div>
 
 ### Back-end
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-  </a>
-</div>
+<div style="display: flex; flex-direction: row; gap: 10px;"> <a href="https://nodejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/> </a> </div>
 
 ### Outros
 <div style="display: flex; flex-direction: row; gap: 10px;">
